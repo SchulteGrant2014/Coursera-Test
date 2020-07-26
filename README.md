@@ -1,3 +1,6 @@
+
+GitHub-Hosted Webite URL: https://schultegrant2014.github.io/Coursera-Test/
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/SchulteGrant2014/Coursera-Test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
