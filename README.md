@@ -1,5 +1,7 @@
 
-GitHub-Hosted Webite URL: https://schultegrant2014.github.io/Coursera-Test/
+# GitHub-Hosted Webite
+
+[link to website](https://schultegrant2014.github.io/Coursera-Test/)
 
 ## Welcome to GitHub Pages
 
