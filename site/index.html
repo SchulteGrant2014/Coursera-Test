@@ -1,9 +1,28 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
     <title>Hello Coursera Title!</title>
 </head>
 <body>
-    <h1>Hello Coursera Body!</h1>
+    <h1 style="color:forestgreen; font-size: 60px; text-align: center;">Hello Coursera Body!</h1>
+    <p style="margin: 0px 100px 0px 100px">Here's some text for the first paragraph. How is your day going? Is it good? I hope this ends up overflowing onto the next line haha :)</p>
+    <p>Here's some text for the second paragraph. How is your day going? Is it good? I hope this ends up overflowing onto the next line haha :)</p>
+    <p>Here's some text for the third paragraph. How is your day going? Is it good? I hope this ends up overflowing onto the next line haha :)</p>
+    <p style="margin: 0px 50px 50px 50px">Here's some text for the fourth paragraph. How is your day going? Is it good? I hope this ends up overflowing onto the next line haha :)</p>
+    <p>Here's some text for the fifth paragraph. How is your day going? Is it good? I hope this ends up overflowing onto the next line haha :)</p>
+    <p>Here's some text for the sixth paragraph. How is your day going? Is it good? I hope this ends up overflowing onto the next line haha :)</p>
+
+    <div>*** DIV 1... ***</div>
+    <span>### SPAN 1... ###</span>
+    <div>*** DIV 2... ***</div>
+    <!-- The following is valid because "span" is an inline/phrasing element, so it can exist within other elements (such as "div", a block/flow element) -->
+    <div>
+        *** DIV 3... ***
+        <span>### SPAN 2... ###</span>
+    </div>
+    <div>*** DIV 4... ***</div>
+    <!-- The following is invalid because "div" is a block/flow element while "span" is an inline/phrasing element... only inline elements can exist within other elements:
+        <span>*** DIV 5... ***<div>### SPAN 3... ###</div></span>
+    -->
 </body>
 </html>
